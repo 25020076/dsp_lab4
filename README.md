@@ -1,8 +1,8 @@
-# <Building Currency Converter in Python>
+# Building Currency Converter in Python
 
 ## Author
-Name: <Watcharapong Narod> 
-Student ID: <25020076>
+Name: Watcharapong Narod
+Student ID: 25020076
 
 ## Description
 This application provides a user-friendly interface to convert currencies using the Frankfurt API.
